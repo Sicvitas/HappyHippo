@@ -1,0 +1,69 @@
+body {
+	background:#DFECF5 url('/images/hhbg.png');
+	background-size: cover; 
+}
+
+
+h1 {
+	text-align:left;
+	font-size: 50px;
+	font-family: 'Mouse Memoirs', sans-serif;
+	color: 
+}
+
+.subtitle {
+	text-align:left;
+	color: #094F9E;
+	font-size: 25px;
+	margin-top: -24px;
+	font-family: 'Mouse Memoirs', sans-serif;
+	
+}
+
+#navbar {
+	text-align:center;
+	margin: 20px;
+	
+}
+
+.menu li {
+	border: 3px solid blue;
+	list-style: none;
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+	background-color: lightyellow;
+	border-radius: 10px;
+	font-family: 'Happy Monkey', cursive;
+}
+
+
+a {
+	margin: 4px;
+	text-decoration: none; 
+}
+
+#about {
+	border: 2px solid blue;
+	border-radius: 50px;
+	width: 350px;
+	height: 400px; 
+	margin-top: -424px;
+	margin-left: 850px;
+	background-color: #8A5861; 
+	opacity: .9
+}
+
+#about h2 {
+	color: #F2FAFA;
+	font-family: 'Happy Monkey', cursive;
+	text-align:center;
+}
+
+.test_body {
+	background-image: url("/images/hippo-outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 30%;
+}
